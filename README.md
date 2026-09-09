@@ -1,4 +1,4 @@
 # Developer Profile
-- **Name:** Rue Taylor
+- **Name:** Rue Taylor (@Birvenev)
 - **Hobby:** Handing out stickers
 - **Preferred Development Tool:** Git Bash
